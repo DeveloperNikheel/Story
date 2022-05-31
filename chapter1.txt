@@ -1,1 +1,1 @@
-this is the git command learning tutorial.
+this is the git command learning tutorial for practice.
